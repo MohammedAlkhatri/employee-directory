@@ -9,7 +9,7 @@ Each participant will fill in exactly ONE row assigned to them (ID 1–22).
 | 2 |  |  |  |
 | 3 |  |  |  |
 | 4 |  |  |  |
-| 5 | Arshad | Data & AI | Data Scientist |
+| 5 |  |  |  |
 | 6 |  |  |  |
 | 7 |  |  |  |
 | 8 |  |  |  |
